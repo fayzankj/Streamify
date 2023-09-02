@@ -1,5 +1,5 @@
 # Streamify
-# Movie Stream Website
+# Movie Streaming Website
 
 Welcome to the Streamify. This website is designed to be mobile-responsive and offers a toggleable dark and light mode for user convenience.
 
